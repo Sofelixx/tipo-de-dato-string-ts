@@ -22,8 +22,8 @@
         "signature": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9"
       },
       "./index.ts": {
-        "version": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
-        "signature": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        "version": "bbe18f1ad7f6d1fa30aabc3832b4cb96ee1fdb6e90f11ad26b9449b0aa6c5179",
+        "signature": "f1484c9dc809867ff6ea586c6aa5aa558c359cd2b126cd83eabd5befa0d00027"
       }
     },
     "options": {
@@ -39,12 +39,12 @@
     "referencedMap": {},
     "exportedModulesMap": {},
     "semanticDiagnosticsPerFile": [
+      "./index.ts",
       "./node_modules/typescript/lib/lib.d.ts",
       "./node_modules/typescript/lib/lib.es5.d.ts",
       "./node_modules/typescript/lib/lib.dom.d.ts",
       "./node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
-      "./node_modules/typescript/lib/lib.scripthost.d.ts",
-      "./index.ts"
+      "./node_modules/typescript/lib/lib.scripthost.d.ts"
     ]
   },
   "version": "3.6.3"
