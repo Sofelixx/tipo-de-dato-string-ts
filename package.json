@@ -1,0 +1,8 @@
+{
+  "name": "tipostringts",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:Sofelixx/tipo-de-dato-string-ts.git",
+  "author": "sofelix <s18paris@gmail.com>",
+  "license": "MIT"
+}
